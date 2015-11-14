@@ -1,0 +1,21 @@
+h1 {
+	background-color: #9E9E9E;
+	display: inline;
+}
+
+h2 {
+	background-color: aquamarine;
+	display: inline;
+}
+
+p {
+	background-color: 
+}
+
+h1, h2 {
+	color: white;
+}
+
+p {
+	color: #28A5A7;
+}
